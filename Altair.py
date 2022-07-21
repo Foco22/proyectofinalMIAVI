@@ -1,23 +1,15 @@
-from turtle import Turtle
-import requests 
 import pandas as pd
-import ExtraccionDatosApi as extraccion
 from sklearn.preprocessing import MinMaxScaler
 import altair as alt
 import pandas as pd
 import streamlit as st
 import numpy as np
-import requests # library to handle requests
-import folium # map rendering library
 from streamlit_folium import folium_static 
-import json
 import Preprocesamiento as pre
 import streamlit as st
-import time
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-import streamlit as st
 from st_aggrid import AgGrid
 from st_aggrid.shared import JsCode
 from st_aggrid.grid_options_builder import GridOptionsBuilder
@@ -52,8 +44,7 @@ with st.spinner('Updating Report...'):
     #Metrics setting and rendering
 
     periodo_select = st.selectbox('Elige la Temporada', np.sort(df_total_equipo['Periodo'].unique())[::-1], help = 'Filtro para Elegir la temporada')
-    print(periodo_select)
-
+ 
     df_total_equipo_per = df_total_equipo.loc[df_total_equipo['Periodo'] == int(periodo_select)]
     df_total_jugador_per = df_total_jugador.loc[df_total_jugador['Periodo'] == int(periodo_select)]
     
@@ -158,7 +149,6 @@ with st.spinner('Updating Report...'):
 
         chart = functools.partial(st.plotly_chart)
 
-        print(df_total_jugador_per['position'].value_counts())
         df_total_jugador_per_attack = df_total_jugador_per.loc[df_total_jugador_per['position'] =='Goalkeeper']
     
         df_total_jugador_per_attack['rank'] = df_total_jugador_per_attack['rank'].apply(lambda x : round(x,2)) 
