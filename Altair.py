@@ -1,5 +1,4 @@
 import pandas as pd
-from sklearn.preprocessing import MinMaxScaler
 import altair as alt
 import pandas as pd
 import streamlit as st
