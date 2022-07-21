@@ -3,7 +3,6 @@ import altair as alt
 import pandas as pd
 import streamlit as st
 import numpy as np
-import Preprocesamiento as pre
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -19,8 +18,8 @@ import functools
 
 df_total_equipo = pd.read_csv('LigaChilena_Equipos.csv',sep =';')
 df_total_jugador = pd.read_csv('LigaChilena_Jugadores.csv',sep =';')
-
-df_total_equipo,df_total_jugador = pre.procesamiento(df_total_jugador,df_total_equipo)
+#df_total_equipo = df_total_equipo.iloc[:,3:]
+#df_total_jugador = df_total_jugador.iloc[:,3:]
 
 
 ##### ALTAIR ##############################

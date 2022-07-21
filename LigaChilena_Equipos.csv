@@ -1,52 +1,52 @@
-;id_league;name_league;season_league;id_team;name_team;match_played;wins_played;draws_played;loses_played;goals_favor;goals_favor_average;goals_against;goals_against_average;clean_sheet;failed_to_score;penalty;penalty_acurracy;contador_yellow;contador_red;Periodo
-0;265;Primera Division;2020;2315;Colo Colo;35;10;12;13;34;1.0;43;1.2;11;13;2;100.0;87;3;2020
-1;265;Primera Division;2020;2316;Curico Unido;34;13;7;14;40;1.2;52;1.5;11;10;11;100.0;71;4;2020
-2;265;Primera Division;2020;2318;Palestino;34;14;9;11;49;1.4;45;1.3;7;8;8;100.0;75;5;2020
-3;265;Primera Division;2020;2319;Deportes Iquique;34;9;11;14;38;1.1;46;1.4;9;11;7;87.5;66;5;2020
-4;265;Primera Division;2020;2320;O'Higgins;34;12;9;13;40;1.2;39;1.1;11;9;7;100.0;92;11;2020
-5;265;Primera Division;2020;2321;Union Espanola;34;14;10;10;55;1.6;53;1.6;4;6;5;100.0;77;6;2020
-6;265;Primera Division;2020;2323;Universidad de Chile;34;13;13;8;49;1.4;33;1.0;12;11;7;100.0;76;5;2020
-7;265;Primera Division;2020;2324;Universidad de Concepcion;35;9;14;12;38;1.1;47;1.3;7;8;8;100.0;78;5;2020
-8;265;Primera Division;2020;2325;Everton de Vina;34;10;13;11;37;1.1;41;1.2;8;11;5;100.0;68;4;2020
-9;265;Primera Division;2020;2326;Union La Calera;34;17;6;11;59;1.7;41;1.2;13;4;10;100.0;63;5;2020
-10;265;Primera Division;2020;2327;Antofagasta;34;12;12;10;43;1.3;42;1.2;10;8;5;83.33;76;6;2020
-11;265;Primera Division;2020;2328;Huachipato;34;13;7;14;43;1.3;44;1.3;9;10;8;100.0;80;6;2020
-12;265;Primera Division;2020;2329;A. Italiano;34;10;11;13;47;1.4;50;1.5;7;7;5;71.43;82;4;2020
-13;265;Primera Division;2020;2330;Coquimbo Unido;34;9;8;17;33;1.0;46;1.4;7;12;2;100.0;72;5;2020
-14;265;Primera Division;2020;2331;Cobresal;34;13;8;13;45;1.3;40;1.2;8;8;2;100.0;82;4;2020
-15;265;Primera Division;2020;2333;Santiago Wanderers;34;12;8;14;42;1.2;53;1.6;7;9;8;100.0;67;10;2020
-16;265;Primera Division;2020;2341;D. La Serena;34;10;9;15;34;1.0;41;1.2;10;12;2;100.0;71;3;2020
-17;265;Primera Division;2020;2994;U. Catolica;34;18;11;5;65;1.9;35;1.0;11;5;11;100.0;59;4;2020
-0;265;Primera Division;2021;2315;Colo Colo;32;19;5;8;49;1.5;26;0.8;15;8;8;100.0;61;4;2021
-1;265;Primera Division;2021;2316;Curico Unido;32;8;13;11;37;1.2;39;1.2;8;9;6;100.0;57;3;2021
-2;265;Primera Division;2021;2318;Palestino;32;11;8;13;48;1.5;50;1.6;6;5;9;100.0;58;6;2021
-3;265;Primera Division;2021;2320;O'Higgins;32;9;11;12;31;1.0;41;1.3;13;10;5;100.0;90;5;2021
-4;265;Primera Division;2021;2321;Union Espanola;32;15;3;14;48;1.5;50;1.6;3;9;4;100.0;62;5;2021
-5;265;Primera Division;2021;2323;Universidad de Chile;32;10;9;13;34;1.1;37;1.2;6;13;5;100.0;81;4;2021
-6;265;Primera Division;2021;2325;Everton de Vina;32;10;9;13;29;0.9;35;1.1;12;11;6;100.0;54;5;2021
-7;265;Primera Division;2021;2326;Union La Calera;32;15;6;11;41;1.3;40;1.3;9;7;7;100.0;57;7;2021
-8;265;Primera Division;2021;2327;Antofagasta;32;12;11;9;34;1.1;36;1.1;10;8;5;100.0;75;3;2021
-9;265;Primera Division;2021;2328;Huachipato;32;8;13;11;36;1.1;41;1.3;8;14;4;100.0;59;8;2021
-10;265;Primera Division;2021;2329;A. Italiano;32;14;12;6;39;1.2;31;1.0;14;7;3;100.0;68;4;2021
-11;265;Primera Division;2021;2331;Cobresal;32;11;7;14;40;1.3;39;1.2;10;6;0;0.0;67;5;2021
-12;265;Primera Division;2021;2333;Santiago Wanderers;32;5;6;21;24;0.8;54;1.7;3;15;2;100.0;88;6;2021
-13;265;Primera Division;2021;2337;Nublense;32;11;11;10;49;1.5;37;1.2;10;9;8;100.0;66;2;2021
-14;265;Primera Division;2021;2339;D. Melipilla;32;10;8;14;39;1.2;51;1.6;5;9;8;100.0;79;3;2021
-15;265;Primera Division;2021;2341;D. La Serena;32;9;12;11;40;1.3;42;1.3;11;12;5;100.0;73;6;2021
-16;265;Primera Division;2021;2994;U. Catolica;32;22;2;8;65;2.0;34;1.1;13;4;6;100.0;65;4;2021
-0;265;Primera Division;2022;2315;Colo Colo;18;10;6;2;35;1.9;12;0.7;7;2;4;100.0;43;5;2022
-1;265;Primera Division;2022;2316;Curico Unido;18;9;5;4;34;1.9;17;0.9;7;4;2;100.0;37;4;2022
-2;265;Primera Division;2022;2318;Palestino;18;7;8;3;22;1.2;19;1.1;8;6;1;100.0;52;3;2022
-3;265;Primera Division;2022;2320;O'Higgins;18;6;6;6;18;1.0;21;1.2;5;7;1;100.0;48;5;2022
-4;265;Primera Division;2022;2321;Union Espanola;17;8;5;4;23;1.4;18;1.1;5;2;4;100.0;54;4;2022
-5;265;Primera Division;2022;2323;Universidad de Chile;18;6;3;9;22;1.2;25;1.4;3;6;6;100.0;42;5;2022
-6;265;Primera Division;2022;2325;Everton de Vina;18;5;10;3;18;1.0;15;0.8;6;6;1;100.0;37;5;2022
-7;265;Primera Division;2022;2326;Union La Calera;18;2;9;7;13;0.7;26;1.4;7;8;0;0.0;31;3;2022
-8;265;Primera Division;2022;2327;Antofagasta;18;3;6;9;15;0.8;21;1.2;5;8;4;100.0;49;5;2022
-9;265;Primera Division;2022;2328;Huachipato;18;7;4;7;20;1.1;24;1.3;5;4;2;100.0;52;5;2022
-10;265;Primera Division;2022;2329;A. Italiano;18;5;5;8;22;1.2;27;1.5;3;4;4;100.0;50;2;2022
-11;265;Primera Division;2022;2330;Coquimbo Unido;18;3;4;11;20;1.1;39;2.2;1;5;5;100.0;49;2;2022
-12;265;Primera Division;2022;2331;Cobresal;18;9;3;6;26;1.4;20;1.1;5;4;3;100.0;47;1;2022
-13;265;Primera Division;2022;2337;Nublense;18;9;6;3;28;1.6;16;0.9;5;4;1;100.0;50;2;2022
-14;265;Primera Division;2022;2341;D. La Serena;18;4;5;9;20;1.1;32;1.8;3;5;3;75.0;57;2;2022
-15;265;Primera Division;2022;2994;U. Catolica;17;7;1;9;23;1.4;27;1.6;4;4;4;100.0;36;3;2022
+Unnamed: 0;id_league;name_league;season_league;id_team;name_team;match_played;wins_played;draws_played;loses_played;goals_favor;goals_favor_average;goals_against;goals_against_average;clean_sheet;failed_to_score;penalty;penalty_acurracy;contador_yellow;contador_red;Periodo;Puntos
+0;265;Primera Division;2020;2315;Colo Colo;35;10;12;13;34;1.0;43;1.2;11;13;2;100.0;87;3;2020;42
+1;265;Primera Division;2020;2316;Curico Unido;34;13;7;14;40;1.2;52;1.5;11;10;11;100.0;71;4;2020;46
+2;265;Primera Division;2020;2318;Palestino;34;14;9;11;49;1.4;45;1.3;7;8;8;100.0;75;5;2020;51
+3;265;Primera Division;2020;2319;Deportes Iquique;34;9;11;14;38;1.1;46;1.4;9;11;7;87.5;66;5;2020;38
+4;265;Primera Division;2020;2320;O'Higgins;34;12;9;13;40;1.2;39;1.1;11;9;7;100.0;92;11;2020;45
+5;265;Primera Division;2020;2321;Union Espanola;34;14;10;10;55;1.6;53;1.6;4;6;5;100.0;77;6;2020;52
+6;265;Primera Division;2020;2323;Universidad de Chile;34;13;13;8;49;1.4;33;1.0;12;11;7;100.0;76;5;2020;52
+7;265;Primera Division;2020;2324;Universidad de Concepcion;35;9;14;12;38;1.1;47;1.3;7;8;8;100.0;78;5;2020;41
+8;265;Primera Division;2020;2325;Everton de Vina;34;10;13;11;37;1.1;41;1.2;8;11;5;100.0;68;4;2020;43
+9;265;Primera Division;2020;2326;Union La Calera;34;17;6;11;59;1.7;41;1.2;13;4;10;100.0;63;5;2020;57
+10;265;Primera Division;2020;2327;Antofagasta;34;12;12;10;43;1.3;42;1.2;10;8;5;83.33;76;6;2020;48
+11;265;Primera Division;2020;2328;Huachipato;34;13;7;14;43;1.3;44;1.3;9;10;8;100.0;80;6;2020;46
+12;265;Primera Division;2020;2329;A. Italiano;34;10;11;13;47;1.4;50;1.5;7;7;5;71.43;82;4;2020;41
+13;265;Primera Division;2020;2330;Coquimbo Unido;34;9;8;17;33;1.0;46;1.4;7;12;2;100.0;72;5;2020;35
+14;265;Primera Division;2020;2331;Cobresal;34;13;8;13;45;1.3;40;1.2;8;8;2;100.0;82;4;2020;47
+15;265;Primera Division;2020;2333;Santiago Wanderers;34;12;8;14;42;1.2;53;1.6;7;9;8;100.0;67;10;2020;44
+16;265;Primera Division;2020;2341;D. La Serena;34;10;9;15;34;1.0;41;1.2;10;12;2;100.0;71;3;2020;39
+17;265;Primera Division;2020;2994;U. Catolica;34;18;11;5;65;1.9;35;1.0;11;5;11;100.0;59;4;2020;65
+0;265;Primera Division;2021;2315;Colo Colo;32;19;5;8;49;1.5;26;0.8;15;8;8;100.0;61;4;2021;62
+1;265;Primera Division;2021;2316;Curico Unido;32;8;13;11;37;1.2;39;1.2;8;9;6;100.0;57;3;2021;37
+2;265;Primera Division;2021;2318;Palestino;32;11;8;13;48;1.5;50;1.6;6;5;9;100.0;58;6;2021;41
+3;265;Primera Division;2021;2320;O'Higgins;32;9;11;12;31;1.0;41;1.3;13;10;5;100.0;90;5;2021;38
+4;265;Primera Division;2021;2321;Union Espanola;32;15;3;14;48;1.5;50;1.6;3;9;4;100.0;62;5;2021;48
+5;265;Primera Division;2021;2323;Universidad de Chile;32;10;9;13;34;1.1;37;1.2;6;13;5;100.0;81;4;2021;39
+6;265;Primera Division;2021;2325;Everton de Vina;32;10;9;13;29;0.9;35;1.1;12;11;6;100.0;54;5;2021;39
+7;265;Primera Division;2021;2326;Union La Calera;32;15;6;11;41;1.3;40;1.3;9;7;7;100.0;57;7;2021;51
+8;265;Primera Division;2021;2327;Antofagasta;32;12;11;9;34;1.1;36;1.1;10;8;5;100.0;75;3;2021;47
+9;265;Primera Division;2021;2328;Huachipato;32;8;13;11;36;1.1;41;1.3;8;14;4;100.0;59;8;2021;37
+10;265;Primera Division;2021;2329;A. Italiano;32;14;12;6;39;1.2;31;1.0;14;7;3;100.0;68;4;2021;54
+11;265;Primera Division;2021;2331;Cobresal;32;11;7;14;40;1.3;39;1.2;10;6;0;0.0;67;5;2021;40
+12;265;Primera Division;2021;2333;Santiago Wanderers;32;5;6;21;24;0.8;54;1.7;3;15;2;100.0;88;6;2021;21
+13;265;Primera Division;2021;2337;Nublense;32;11;11;10;49;1.5;37;1.2;10;9;8;100.0;66;2;2021;44
+14;265;Primera Division;2021;2339;D. Melipilla;32;10;8;14;39;1.2;51;1.6;5;9;8;100.0;79;3;2021;38
+15;265;Primera Division;2021;2341;D. La Serena;32;9;12;11;40;1.3;42;1.3;11;12;5;100.0;73;6;2021;39
+16;265;Primera Division;2021;2994;U. Catolica;32;22;2;8;65;2.0;34;1.1;13;4;6;100.0;65;4;2021;68
+0;265;Primera Division;2022;2315;Colo Colo;18;10;6;2;35;1.9;12;0.7;7;2;4;100.0;43;5;2022;36
+1;265;Primera Division;2022;2316;Curico Unido;18;9;5;4;34;1.9;17;0.9;7;4;2;100.0;37;4;2022;32
+2;265;Primera Division;2022;2318;Palestino;18;7;8;3;22;1.2;19;1.1;8;6;1;100.0;52;3;2022;29
+3;265;Primera Division;2022;2320;O'Higgins;18;6;6;6;18;1.0;21;1.2;5;7;1;100.0;48;5;2022;24
+4;265;Primera Division;2022;2321;Union Espanola;17;8;5;4;23;1.4;18;1.1;5;2;4;100.0;54;4;2022;29
+5;265;Primera Division;2022;2323;Universidad de Chile;18;6;3;9;22;1.2;25;1.4;3;6;6;100.0;42;5;2022;21
+6;265;Primera Division;2022;2325;Everton de Vina;18;5;10;3;18;1.0;15;0.8;6;6;1;100.0;37;5;2022;25
+7;265;Primera Division;2022;2326;Union La Calera;18;2;9;7;13;0.7;26;1.4;7;8;0;0.0;31;3;2022;15
+8;265;Primera Division;2022;2327;Antofagasta;18;3;6;9;15;0.8;21;1.2;5;8;4;100.0;49;5;2022;15
+9;265;Primera Division;2022;2328;Huachipato;18;7;4;7;20;1.1;24;1.3;5;4;2;100.0;52;5;2022;25
+10;265;Primera Division;2022;2329;A. Italiano;18;5;5;8;22;1.2;27;1.5;3;4;4;100.0;50;2;2022;20
+11;265;Primera Division;2022;2330;Coquimbo Unido;18;3;4;11;20;1.1;39;2.2;1;5;5;100.0;49;2;2022;13
+12;265;Primera Division;2022;2331;Cobresal;18;9;3;6;26;1.4;20;1.1;5;4;3;100.0;47;1;2022;30
+13;265;Primera Division;2022;2337;Nublense;18;9;6;3;28;1.6;16;0.9;5;4;1;100.0;50;2;2022;33
+14;265;Primera Division;2022;2341;D. La Serena;18;4;5;9;20;1.1;32;1.8;3;5;3;75.0;57;2;2022;17
+15;265;Primera Division;2022;2994;U. Catolica;17;7;1;9;23;1.4;27;1.6;4;4;4;100.0;36;3;2022;22

@@ -1,12 +1,14 @@
 from turtle import Turtle
 import requests 
 import pandas as pd
-import ExtraccionDatosApi as extraccion
 from sklearn.preprocessing import MinMaxScaler
 scaler = MinMaxScaler()
 
 ################ Parametros ##################################
 
+
+df_total_equipo = pd.read_csv('LigaChilena_Equipos.csv',sep =';')
+df_total_jugador = pd.read_csv('LigaChilena_Jugadores.csv',sep =';')
 
 ################ Main ########################################
 
@@ -153,6 +155,10 @@ def procesamiento(df_total_jugador,df_total_equipo):
     return df_total_equipo,df_total_jugador
 
 
+df_total_equipo,df_total_jugador = procesamiento(df_total_jugador,df_total_equipo)
+
+df_total_equipo.to_csv('LigaChilena_Equipos.csv',sep =';', index= False)
+df_total_jugador.to_csv('LigaChilena_Jugadores.csv',sep =';', index= False)
 
 
 #### ALTIER ##############################################################

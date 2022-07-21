@@ -5,11 +5,11 @@ import pandas as pd
 ################ Api Token ########################
 
 
-api = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+api = '8e723923f7mshf6a6f7a5327caadp1352bbjsn31d49f9c9e85'
 
 headers = {
-	"X-RapidAPI-Key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-	"X-RapidAPI-Host": "XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+	"X-RapidAPI-Key": "8e723923f7mshf6a6f7a5327caadp1352bbjsn31d49f9c9e85",
+	"X-RapidAPI-Host": "api-football-v1.p.rapidapi.com"
 }
 
 
@@ -225,6 +225,37 @@ def league_season_team_players_estadisticas(liga,season):
     return df_teams_players
 
 
+def get_extraccion(sesiones):
+
+    ## Futbol Chileno Liga 265 
+
+    df_total_equipo_liga = pd.DataFrame()
+    df_total_jugador_chilena_equipos = pd.DataFrame()    
+
+    for x in sesiones:
+        
+        print('Periodo : {}'.format(x))
+        equipo_liga = league_season(265,[x])
+        liga_chilena_equipos = league_season_team_estadisticas(265,[x])
+        jugador_chilena_equipos = league_season_team_players_estadisticas(265,[x])
+    
+        equipo_liga = equipo_liga.rename(columns = {'id':'team'})
+        jugador_chilena_equipos = pd.merge(jugador_chilena_equipos,equipo_liga[['team','name']], on = 'team', how = 'left')
+        
+        liga_chilena_equipos['Periodo'] = x
+        jugador_chilena_equipos['Periodo'] = x
+
+        df_total_equipo_liga = pd.concat([df_total_equipo_liga,liga_chilena_equipos],axis = 0)
+        df_total_jugador_chilena_equipos = pd.concat([df_total_jugador_chilena_equipos,jugador_chilena_equipos],axis = 0)
+        #liga_chilena_equipos.to_csv('Equipo_Estadisticas.csv',sep =';')
+        #jugador_chilena_equipos.to_csv('Equipo_jugadores_Estadisticas.csv',sep =';')
+    
+    df_total_equipo_liga.to_csv('LigaChilena_Equipos.csv',sep =';')
+    df_total_jugador_chilena_equipos.to_csv('LigaChilena_Jugadores.csv',sep =';')
+    
+    return df_total_equipo_liga,df_total_jugador_chilena_equipos
 
 
+
+df_total_equipo, df_total_jugador = get_extraccion([2020,2021,2022])
 
