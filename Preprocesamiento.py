@@ -55,8 +55,8 @@ def procesamiento(df_total_jugador,df_total_equipo):
     
     #df_total_equipo, df_total_jugador = get_extraccion([2020,2021,2022])
     
-    df_total_jugador['appearence'] = df_total_jugador.apply(lambda row: 32 if row['Periodo'] != 2022 else 16, axis = 1  )
-    df_total_jugador['goles'] = df_total_jugador['goles'] + df_total_jugador['penalty_scored']
+    #df_total_jugador['appearence'] = df_total_jugador.apply(lambda row: 33 if row['Periodo'] != 2022 else 18, axis = 1  )
+    #df_total_jugador['goles'] = df_total_jugador['goles'] + df_total_jugador['penalty_scored']
     
     df_total_jugador['shot_on_app'] = df_total_jugador.apply(lambda row: 0 if row['appearence'] == 0 else row['shots_on']/row['appearence'], axis = 1)
     df_total_jugador['goles_assistes_app'] = df_total_jugador.apply(lambda row: 0 if row['appearence'] == 0 else row['goles_assists']/row['appearence'], axis = 1)
@@ -92,20 +92,27 @@ def procesamiento(df_total_jugador,df_total_equipo):
 
     df_total_jugador['rank'] = 0
 
+    df_total_jugador['total_line_up'] = df_total_jugador.apply(lambda row: 33 if row['Periodo'] != 2022 else 18, axis = 1  )
+    df_total_jugador['total_line_up_per'] = df_total_jugador['appearence']/df_total_jugador['total_line_up']
+
+ 
+    #for x,j in enumerate(df_total_jugador.columns):
+    #    print(x,j)
+        
     for x in range(df_total_jugador.shape[0]):
     
         if df_total_jugador.iloc[x,14] == 'Attacker':
 
         # Indicador Attack = 
-# 3*shot_on_app + 3*goles_app + 1*goles_assistes_app +  1*passes_key_app + 0* tackles_blocks_app + 1*passes_accuracy + 
-# 0*tackles_interceptions_app - 0*fouls_committed_app - 0*card_yellow_app - 1*card_red_app + 
-# 1*penalty_won_app + 2*penalty_scored_app - 1*penalty_missed_app + 0*penalty_commited_app +
-# penalty_saved_app*0 + 1*duels_wom_app + 3*dribbles_success_app + 3*lineup_app + 3*height_r + 3*age_r 
+# 3*shot_on_app + 5*goles_app + 3*goles_assistes_app - 1*card_red_app + 
+# 1*penalty_won_app + 2*penalty_scored_app - 1*penalty_missed_app  + 1*duels_wom_app + 3*dribbles_success_app + 3*lineup_app + 3*height_r + 3*age_r 
        
-          df_total_jugador.iloc[x,65] = 5*df_total_jugador.iloc[x,43] + 4*df_total_jugador.iloc[x,45] +  1*df_total_jugador.iloc[x,47]
-          + 1*df_total_jugador.iloc[x,64] - 1*df_total_jugador.iloc[x,51] +  1*df_total_jugador.iloc[x,53] + 2*df_total_jugador.iloc[x,55]  
-          - 1*df_total_jugador.iloc[x,56] + 1*df_total_jugador.iloc[x,58] + 3*df_total_jugador.iloc[x,59]   + 3*df_total_jugador.iloc[x,60]
-          + 3*df_total_jugador.iloc[x,63] + 3*df_total_jugador.iloc[x,62]   
+          df_total_jugador.iloc[x,65] = 3*df_total_jugador.iloc[x,43] + 5*df_total_jugador.iloc[x,45] +  3*df_total_jugador.iloc[x,44]
+          - 1*df_total_jugador.iloc[x,52] +  1*df_total_jugador.iloc[x,53] + 1*df_total_jugador.iloc[x,55]  
+          + 1*df_total_jugador.iloc[x,58] + 3*df_total_jugador.iloc[x,59]   + 3*df_total_jugador.iloc[x,67]
+          + 3*df_total_jugador.iloc[x,63] + 3*df_total_jugador.iloc[x,62]
+
+          df_total_jugador.iloc[x,65] = df_total_jugador.iloc[x,65]  
 
         if df_total_jugador.iloc[x,14] == 'Midfielder':
 
@@ -115,11 +122,11 @@ def procesamiento(df_total_jugador,df_total_equipo):
 # 1*penalty_won_app + 1*penalty_scored_app + 0*penalty_missed_app - 2*penalty_commited_app +
 # 0*penalty_saved_app + 3*duels_wom_app + 1*dribbles_success_app + 3*lineup_app + 2*height_r + 3*age_r 
 
-       
-          df_total_jugador.iloc[x,65] = 1*df_total_jugador.iloc[x,43] + 1*df_total_jugador.iloc[x,45] +  3*df_total_jugador.iloc[x,47]
-          + 2*df_total_jugador.iloc[x,48] + 3*df_total_jugador.iloc[x,64] + 2*df_total_jugador.iloc[x,49] +  2*df_total_jugador.iloc[x,50]
+
+          df_total_jugador.iloc[x,65] = 3*df_total_jugador.iloc[x,43] + 5*df_total_jugador.iloc[x,44] +  5*df_total_jugador.iloc[x,47] + 1*df_total_jugador.iloc[x,45] 
+          + 2*df_total_jugador.iloc[x,48] + 3*df_total_jugador.iloc[x,64] + 2*df_total_jugador.iloc[x,49] -  2*df_total_jugador.iloc[x,50]
           - 1*df_total_jugador.iloc[x,51] - 2*df_total_jugador.iloc[x,52] + 1*df_total_jugador.iloc[x,53] + 1*df_total_jugador.iloc[x,55] 
-          - 2*df_total_jugador.iloc[x,54] +  3*df_total_jugador.iloc[x,58] + 2*df_total_jugador.iloc[x,59] + 3*df_total_jugador.iloc[x,60]
+          - 2*df_total_jugador.iloc[x,54] +  3*df_total_jugador.iloc[x,58] + 3*df_total_jugador.iloc[x,67]
           + 3*df_total_jugador.iloc[x,63] + 3*df_total_jugador.iloc[x,62]
        
 
@@ -133,10 +140,10 @@ def procesamiento(df_total_jugador,df_total_equipo):
 # 0*penalty_saved_app + 3*duels_wom_app + 0*dribbles_success_app + 3*lineup_app + 3*age_r + 3*height_r
 
        
-          df_total_jugador.iloc[x,65] = 1*df_total_jugador.iloc[x,43] + 1*df_total_jugador.iloc[x,45] +  1*df_total_jugador.iloc[x,47] 
-          + 2*df_total_jugador.iloc[x,64] +  3*df_total_jugador.iloc[x,48] + 3*df_total_jugador.iloc[x,49] + 2*df_total_jugador.iloc[x,50]
-          - 1*df_total_jugador.iloc[x,51] - 2*df_total_jugador.iloc[x,52] + 1*df_total_jugador.iloc[x,53] + 1*df_total_jugador.iloc[x,55] 
-          - 3*df_total_jugador.iloc[x,54] + 3*df_total_jugador.iloc[x,58] +3*df_total_jugador.iloc[x,60]
+          df_total_jugador.iloc[x,65] = 1*df_total_jugador.iloc[x,45] +  2*df_total_jugador.iloc[x,47] 
+          + 2*df_total_jugador.iloc[x,64] +  5*df_total_jugador.iloc[x,48] + 5*df_total_jugador.iloc[x,49] - 3*df_total_jugador.iloc[x,50]
+          - 1*df_total_jugador.iloc[x,51] - 2*df_total_jugador.iloc[x,52]  + 1*df_total_jugador.iloc[x,55] 
+          - 3*df_total_jugador.iloc[x,54] + 3*df_total_jugador.iloc[x,58] + 3*df_total_jugador.iloc[x,67]
           + 3*df_total_jugador.iloc[x,63] + 3*df_total_jugador.iloc[x,62]
 
 
@@ -147,12 +154,29 @@ def procesamiento(df_total_jugador,df_total_equipo):
 # 3*goles_saves_app - 3*goles_conceded_app + 1*passes_accuracy + 1*penalty_saved_app + 3*lineup_app + 3*age_r + 3*height_r
 
    
-          df_total_jugador.iloc[x,65] =  -3*df_total_jugador.iloc[x,61] + 3*df_total_jugador.iloc[x,46] + 1*df_total_jugador.iloc[x,64] 
-          + 3*df_total_jugador.iloc[x,60] + 3*df_total_jugador.iloc[x,63] + 3*df_total_jugador.iloc[x,62]
+          df_total_jugador.iloc[x,65] =  -5*df_total_jugador.iloc[x,61] + 5*df_total_jugador.iloc[x,46] + 1*df_total_jugador.iloc[x,64] 
+          + 3*df_total_jugador.iloc[x,67] + 3*df_total_jugador.iloc[x,63] + 3*df_total_jugador.iloc[x,62]
 
+    
+    df_total_jugador_t = pd.DataFrame()
 
+    for j in df_total_jugador['position'].unique():
+
+        df_total_jugador_pos = df_total_jugador.loc[df_total_jugador['position'] ==j]
+        df_total_jugador_pos = df_total_jugador_pos.reset_index().drop(columns = ['index'])
+        
+        scaler = MinMaxScaler()
+        scaler = scaler.fit(df_total_jugador_pos['rank'].values.reshape(-1,1))
+        scaler_r = scaler.transform(df_total_jugador_pos['rank'].values.reshape(-1,1))
+        df_total_jugador_pos['rank'] = 100*scaler_r
+        
+        df_total_jugador_t = pd.concat([df_total_jugador_t,df_total_jugador_pos], axis = 0)
+
+    
+    df_total_jugador_t = df_total_jugador_t.reset_index().drop(columns = ['index'])
     df_total_equipo['Puntos'] = df_total_equipo['wins_played']*3 + df_total_equipo['draws_played']*1 + df_total_equipo['loses_played']*0
-    return df_total_equipo,df_total_jugador
+
+    return df_total_equipo,df_total_jugador_t
 
 
 df_total_equipo,df_total_jugador = procesamiento(df_total_jugador,df_total_equipo)

@@ -1,0 +1,1494 @@
+;Equipos;Puntos;fixture;season
+0;A. Italiano;3;1;2020
+1;Everton de Vina;3;1;2020
+2;Union La Calera;3;1;2020
+3;Union Espanola;3;1;2020
+4;U. Catolica;3;1;2020
+5;Antofagasta;3;1;2020
+6;Huachipato;3;1;2020
+7;Curico Unido;3;1;2020
+8;Colo Colo;3;1;2020
+9;Deportes Iquique;0;1;2020
+10;D. La Serena;0;1;2020
+11;O'Higgins;0;1;2020
+12;Palestino;0;1;2020
+13;Santiago Wanderers;0;1;2020
+14;Coquimbo Unido;0;1;2020
+15;Cobresal;0;1;2020
+16;Universidad de Chile;0;1;2020
+17;Universidad de Concepcion;0;1;2020
+18;Antofagasta;6;2;2020
+19;Union La Calera;6;2;2020
+20;U. Catolica;6;2;2020
+21;A. Italiano;4;2;2020
+22;Everton de Vina;4;2;2020
+23;Universidad de Chile;3;2;2020
+24;Union Espanola;3;2;2020
+25;Santiago Wanderers;3;2;2020
+26;Palestino;3;2;2020
+27;Huachipato;3;2;2020
+28;Curico Unido;3;2;2020
+29;Colo Colo;3;2;2020
+30;Cobresal;3;2;2020
+31;Deportes Iquique;1;2;2020
+32;Coquimbo Unido;1;2;2020
+33;O'Higgins;0;2;2020
+34;D. La Serena;0;2;2020
+35;Universidad de Concepcion;0;2;2020
+36;U. Catolica;9;3;2020
+37;A. Italiano;7;3;2020
+38;Everton de Vina;7;3;2020
+39;Cobresal;6;3;2020
+40;Universidad de Chile;6;3;2020
+41;Union La Calera;6;3;2020
+42;Curico Unido;6;3;2020
+43;Antofagasta;6;3;2020
+44;Palestino;4;3;2020
+45;Union Espanola;4;3;2020
+46;Huachipato;4;3;2020
+47;O'Higgins;3;3;2020
+48;Santiago Wanderers;3;3;2020
+49;Colo Colo;3;3;2020
+50;Deportes Iquique;1;3;2020
+51;Coquimbo Unido;1;3;2020
+52;Universidad de Concepcion;1;3;2020
+53;D. La Serena;0;3;2020
+54;U. Catolica;12;4;2020
+55;A. Italiano;10;4;2020
+56;Universidad de Chile;9;4;2020
+57;Union La Calera;9;4;2020
+58;Curico Unido;9;4;2020
+59;Antofagasta;9;4;2020
+60;Everton de Vina;8;4;2020
+61;Huachipato;7;4;2020
+62;Cobresal;7;4;2020
+63;Palestino;5;4;2020
+64;O'Higgins;4;4;2020
+65;Union Espanola;4;4;2020
+66;Santiago Wanderers;3;4;2020
+67;Colo Colo;3;4;2020
+68;Deportes Iquique;1;4;2020
+69;Coquimbo Unido;1;4;2020
+70;Universidad de Concepcion;1;4;2020
+71;D. La Serena;0;4;2020
+72;U. Catolica;15;5;2020
+73;Union La Calera;12;5;2020
+74;Curico Unido;12;5;2020
+75;A. Italiano;10;5;2020
+76;Antofagasta;10;5;2020
+77;Universidad de Chile;10;5;2020
+78;Huachipato;10;5;2020
+79;Everton de Vina;8;5;2020
+80;Palestino;8;5;2020
+81;Union Espanola;7;5;2020
+82;Cobresal;7;5;2020
+83;O'Higgins;4;5;2020
+84;D. La Serena;3;5;2020
+85;Santiago Wanderers;3;5;2020
+86;Colo Colo;3;5;2020
+87;Coquimbo Unido;2;5;2020
+88;Universidad de Concepcion;2;5;2020
+89;Deportes Iquique;1;5;2020
+90;U. Catolica;16;6;2020
+91;Curico Unido;15;6;2020
+92;Universidad de Chile;13;6;2020
+93;Union La Calera;13;6;2020
+94;A. Italiano;11;6;2020
+95;Antofagasta;11;6;2020
+96;Union Espanola;10;6;2020
+97;Huachipato;10;6;2020
+98;Palestino;9;6;2020
+99;Everton de Vina;8;6;2020
+100;Cobresal;8;6;2020
+101;Coquimbo Unido;5;6;2020
+102;O'Higgins;4;6;2020
+103;Santiago Wanderers;4;6;2020
+104;Colo Colo;4;6;2020
+105;D. La Serena;3;6;2020
+106;Universidad de Concepcion;3;6;2020
+107;Deportes Iquique;2;6;2020
+108;Union La Calera;16;7;2020
+109;Curico Unido;16;7;2020
+110;U. Catolica;16;7;2020
+111;Universidad de Chile;14;7;2020
+112;Huachipato;13;7;2020
+113;Union Espanola;13;7;2020
+114;Antofagasta;12;7;2020
+115;Palestino;12;7;2020
+116;A. Italiano;11;7;2020
+117;Everton de Vina;9;7;2020
+118;Cobresal;9;7;2020
+119;Colo Colo;7;7;2020
+120;Deportes Iquique;5;7;2020
+121;Coquimbo Unido;5;7;2020
+122;O'Higgins;4;7;2020
+123;Santiago Wanderers;4;7;2020
+124;Universidad de Concepcion;4;7;2020
+125;D. La Serena;3;7;2020
+126;Union La Calera;19;8;2020
+127;U. Catolica;19;8;2020
+128;Curico Unido;16;8;2020
+129;Antofagasta;15;8;2020
+130;Universidad de Chile;15;8;2020
+131;Huachipato;14;8;2020
+132;Union Espanola;14;8;2020
+133;Palestino;13;8;2020
+134;A. Italiano;12;8;2020
+135;Everton de Vina;10;8;2020
+136;Cobresal;9;8;2020
+137;Deportes Iquique;8;8;2020
+138;Santiago Wanderers;7;8;2020
+139;Colo Colo;7;8;2020
+140;Coquimbo Unido;5;8;2020
+141;Universidad de Concepcion;5;8;2020
+142;O'Higgins;4;8;2020
+143;D. La Serena;4;8;2020
+144;U. Catolica;22;9;2020
+145;Union La Calera;20;9;2020
+146;Union Espanola;17;9;2020
+147;Antofagasta;16;9;2020
+148;Universidad de Chile;16;9;2020
+149;Curico Unido;16;9;2020
+150;Palestino;16;9;2020
+151;Huachipato;14;9;2020
+152;A. Italiano;13;9;2020
+153;Deportes Iquique;11;9;2020
+154;Everton de Vina;10;9;2020
+155;Santiago Wanderers;10;9;2020
+156;Cobresal;10;9;2020
+157;Colo Colo;8;9;2020
+158;O'Higgins;5;9;2020
+159;D. La Serena;5;9;2020
+160;Coquimbo Unido;5;9;2020
+161;Universidad de Concepcion;5;9;2020
+162;U. Catolica;25;10;2020
+163;Union La Calera;20;10;2020
+164;Union Espanola;20;10;2020
+165;Universidad de Chile;19;10;2020
+166;Antofagasta;17;10;2020
+167;A. Italiano;16;10;2020
+168;Curico Unido;16;10;2020
+169;Palestino;16;10;2020
+170;Huachipato;14;10;2020
+171;Cobresal;13;10;2020
+172;Everton de Vina;11;10;2020
+173;Deportes Iquique;11;10;2020
+174;Santiago Wanderers;10;10;2020
+175;O'Higgins;8;10;2020
+176;Coquimbo Unido;8;10;2020
+177;Colo Colo;8;10;2020
+178;Universidad de Concepcion;8;10;2020
+179;D. La Serena;5;10;2020
+180;U. Catolica;28;11;2020
+181;Universidad de Chile;22;11;2020
+182;Union La Calera;21;11;2020
+183;Antofagasta;20;11;2020
+184;Union Espanola;20;11;2020
+185;Curico Unido;19;11;2020
+186;Palestino;19;11;2020
+187;A. Italiano;16;11;2020
+188;Huachipato;14;11;2020
+189;Everton de Vina;14;11;2020
+190;Santiago Wanderers;13;11;2020
+191;Cobresal;13;11;2020
+192;Deportes Iquique;11;11;2020
+193;Universidad de Concepcion;11;11;2020
+194;Colo Colo;9;11;2020
+195;O'Higgins;8;11;2020
+196;Coquimbo Unido;8;11;2020
+197;D. La Serena;5;11;2020
+198;U. Catolica;29;12;2020
+199;Union La Calera;24;12;2020
+200;Union Espanola;23;12;2020
+201;Universidad de Chile;22;12;2020
+202;Antofagasta;20;12;2020
+203;Curico Unido;20;12;2020
+204;Palestino;19;12;2020
+205;A. Italiano;17;12;2020
+206;Cobresal;16;12;2020
+207;Huachipato;15;12;2020
+208;Everton de Vina;15;12;2020
+209;Santiago Wanderers;13;12;2020
+210;Colo Colo;12;12;2020
+211;O'Higgins;11;12;2020
+212;Deportes Iquique;11;12;2020
+213;Coquimbo Unido;11;12;2020
+214;Universidad de Concepcion;11;12;2020
+215;D. La Serena;6;12;2020
+216;U. Catolica;32;13;2020
+217;Union La Calera;27;13;2020
+218;Union Espanola;26;13;2020
+219;Antofagasta;23;13;2020
+220;Universidad de Chile;22;13;2020
+221;Curico Unido;20;13;2020
+222;Palestino;19;13;2020
+223;Huachipato;18;13;2020
+224;Everton de Vina;18;13;2020
+225;A. Italiano;17;13;2020
+226;Santiago Wanderers;16;13;2020
+227;Cobresal;16;13;2020
+228;Coquimbo Unido;14;13;2020
+229;Universidad de Concepcion;14;13;2020
+230;Colo Colo;12;13;2020
+231;O'Higgins;11;13;2020
+232;Deportes Iquique;11;13;2020
+233;D. La Serena;6;13;2020
+234;U. Catolica;33;14;2020
+235;Union La Calera;30;14;2020
+236;Union Espanola;29;14;2020
+237;Universidad de Chile;25;14;2020
+238;Antofagasta;24;14;2020
+239;Curico Unido;20;14;2020
+240;Huachipato;19;14;2020
+241;Palestino;19;14;2020
+242;Cobresal;19;14;2020
+243;Everton de Vina;19;14;2020
+244;Santiago Wanderers;17;14;2020
+245;A. Italiano;17;14;2020
+246;Coquimbo Unido;15;14;2020
+247;Universidad de Concepcion;15;14;2020
+248;Deportes Iquique;14;14;2020
+249;Colo Colo;13;14;2020
+250;O'Higgins;11;14;2020
+251;D. La Serena;6;14;2020
+252;Union La Calera;33;15;2020
+253;U. Catolica;33;15;2020
+254;Union Espanola;32;15;2020
+255;Antofagasta;27;15;2020
+256;Universidad de Chile;25;15;2020
+257;Curico Unido;23;15;2020
+258;Huachipato;22;15;2020
+259;A. Italiano;20;15;2020
+260;Everton de Vina;19;15;2020
+261;Palestino;19;15;2020
+262;Cobresal;19;15;2020
+263;Coquimbo Unido;18;15;2020
+264;Santiago Wanderers;17;15;2020
+265;Universidad de Concepcion;16;15;2020
+266;Deportes Iquique;15;15;2020
+267;Colo Colo;13;15;2020
+268;O'Higgins;11;15;2020
+269;D. La Serena;9;15;2020
+270;Union La Calera;36;16;2020
+271;U. Catolica;36;16;2020
+272;Union Espanola;35;16;2020
+273;Antofagasta;27;16;2020
+274;Universidad de Chile;26;16;2020
+275;Curico Unido;24;16;2020
+276;Huachipato;22;16;2020
+277;A. Italiano;21;16;2020
+278;Everton de Vina;20;16;2020
+279;Santiago Wanderers;20;16;2020
+280;Palestino;19;16;2020
+281;Cobresal;19;16;2020
+282;Universidad de Concepcion;19;16;2020
+283;Deportes Iquique;18;16;2020
+284;Coquimbo Unido;18;16;2020
+285;Colo Colo;14;16;2020
+286;O'Higgins;12;16;2020
+287;D. La Serena;9;16;2020
+288;U. Catolica;39;17;2020
+289;Union La Calera;36;17;2020
+290;Union Espanola;36;17;2020
+291;Antofagasta;30;17;2020
+292;Curico Unido;27;17;2020
+293;Universidad de Chile;26;17;2020
+294;Huachipato;25;17;2020
+295;Everton de Vina;23;17;2020
+296;Universidad de Concepcion;22;17;2020
+297;Cobresal;22;17;2020
+298;Deportes Iquique;21;17;2020
+299;A. Italiano;21;17;2020
+300;Santiago Wanderers;20;17;2020
+301;Palestino;19;17;2020
+302;Coquimbo Unido;19;17;2020
+303;Colo Colo;14;17;2020
+304;O'Higgins;12;17;2020
+305;D. La Serena;9;17;2020
+306;U. Catolica;42;18;2020
+307;Union Espanola;39;18;2020
+308;Union La Calera;36;18;2020
+309;Antofagasta;30;18;2020
+310;Curico Unido;30;18;2020
+311;Universidad de Chile;29;18;2020
+312;Huachipato;25;18;2020
+313;Universidad de Concepcion;25;18;2020
+314;A. Italiano;24;18;2020
+315;Everton de Vina;23;18;2020
+316;Palestino;22;18;2020
+317;Cobresal;22;18;2020
+318;Deportes Iquique;21;18;2020
+319;Santiago Wanderers;20;18;2020
+320;Coquimbo Unido;19;18;2020
+321;O'Higgins;15;18;2020
+322;Colo Colo;14;18;2020
+323;D. La Serena;12;18;2020
+324;U. Catolica;42;19;2020
+325;Union La Calera;39;19;2020
+326;Union Espanola;39;19;2020
+327;Antofagasta;31;19;2020
+328;Curico Unido;31;19;2020
+329;Universidad de Chile;29;19;2020
+330;Huachipato;26;19;2020
+331;Universidad de Concepcion;26;19;2020
+332;Everton de Vina;24;19;2020
+333;A. Italiano;24;19;2020
+334;Santiago Wanderers;23;19;2020
+335;Deportes Iquique;22;19;2020
+336;Palestino;22;19;2020
+337;Coquimbo Unido;22;19;2020
+338;Cobresal;22;19;2020
+339;O'Higgins;18;19;2020
+340;Colo Colo;17;19;2020
+341;D. La Serena;15;19;2020
+342;U. Catolica;45;20;2020
+343;Union La Calera;42;20;2020
+344;Union Espanola;39;20;2020
+345;Curico Unido;34;20;2020
+346;Antofagasta;31;20;2020
+347;Universidad de Chile;30;20;2020
+348;Huachipato;29;20;2020
+349;Universidad de Concepcion;26;20;2020
+350;Everton de Vina;25;20;2020
+351;A. Italiano;25;20;2020
+352;Santiago Wanderers;24;20;2020
+353;Deportes Iquique;23;20;2020
+354;Cobresal;23;20;2020
+355;Palestino;22;20;2020
+356;Coquimbo Unido;22;20;2020
+357;O'Higgins;21;20;2020
+358;D. La Serena;18;20;2020
+359;Colo Colo;17;20;2020
+360;U. Catolica;46;21;2020
+361;Union La Calera;45;21;2020
+362;Union Espanola;40;21;2020
+363;Curico Unido;37;21;2020
+364;Antofagasta;32;21;2020
+365;Universidad de Chile;31;21;2020
+366;Huachipato;30;21;2020
+367;Universidad de Concepcion;27;21;2020
+368;Everton de Vina;25;21;2020
+369;Santiago Wanderers;25;21;2020
+370;A. Italiano;25;21;2020
+371;Cobresal;24;21;2020
+372;Deportes Iquique;23;21;2020
+373;Palestino;23;21;2020
+374;Coquimbo Unido;23;21;2020
+375;O'Higgins;22;21;2020
+376;D. La Serena;21;21;2020
+377;Colo Colo;18;21;2020
+378;U. Catolica;47;22;2020
+379;Union La Calera;45;22;2020
+380;Union Espanola;41;22;2020
+381;Curico Unido;37;22;2020
+382;Antofagasta;35;22;2020
+383;Universidad de Chile;34;22;2020
+384;Huachipato;30;22;2020
+385;Everton de Vina;28;22;2020
+386;Universidad de Concepcion;27;22;2020
+387;Cobresal;27;22;2020
+388;Palestino;26;22;2020
+389;Santiago Wanderers;26;22;2020
+390;O'Higgins;25;22;2020
+391;A. Italiano;25;22;2020
+392;Deportes Iquique;24;22;2020
+393;D. La Serena;24;22;2020
+394;Coquimbo Unido;23;22;2020
+395;Colo Colo;18;22;2020
+396;U. Catolica;47;23;2020
+397;Union La Calera;45;23;2020
+398;Union Espanola;41;23;2020
+399;Antofagasta;38;23;2020
+400;Curico Unido;37;23;2020
+401;Universidad de Chile;35;23;2020
+402;Huachipato;30;23;2020
+403;Universidad de Concepcion;30;23;2020
+404;Cobresal;30;23;2020
+405;Palestino;29;23;2020
+406;Santiago Wanderers;29;23;2020
+407;Everton de Vina;28;23;2020
+408;O'Higgins;28;23;2020
+409;D. La Serena;27;23;2020
+410;Deportes Iquique;25;23;2020
+411;A. Italiano;25;23;2020
+412;Coquimbo Unido;23;23;2020
+413;Colo Colo;21;23;2020
+414;U. Catolica;47;24;2020
+415;Union La Calera;46;24;2020
+416;Union Espanola;44;24;2020
+417;Antofagasta;38;24;2020
+418;Curico Unido;37;24;2020
+419;Universidad de Chile;36;24;2020
+420;Huachipato;33;24;2020
+421;Palestino;32;24;2020
+422;O'Higgins;31;24;2020
+423;Cobresal;31;24;2020
+424;Universidad de Concepcion;30;24;2020
+425;Santiago Wanderers;29;24;2020
+426;Everton de Vina;28;24;2020
+427;Deportes Iquique;28;24;2020
+428;D. La Serena;28;24;2020
+429;A. Italiano;28;24;2020
+430;Colo Colo;24;24;2020
+431;Coquimbo Unido;23;24;2020
+432;U. Catolica;48;25;2020
+433;Union Espanola;47;25;2020
+434;Union La Calera;46;25;2020
+435;Antofagasta;39;25;2020
+436;Universidad de Chile;37;25;2020
+437;Curico Unido;37;25;2020
+438;Palestino;35;25;2020
+439;Huachipato;34;25;2020
+440;O'Higgins;34;25;2020
+441;Cobresal;31;25;2020
+442;D. La Serena;31;25;2020
+443;Deportes Iquique;31;25;2020
+444;Everton de Vina;31;25;2020
+445;Universidad de Concepcion;30;25;2020
+446;Santiago Wanderers;30;25;2020
+447;A. Italiano;28;25;2020
+448;Colo Colo;25;25;2020
+449;Coquimbo Unido;23;25;2020
+450;U. Catolica;49;26;2020
+451;Union Espanola;48;26;2020
+452;Union La Calera;46;26;2020
+453;Antofagasta;40;26;2020
+454;Palestino;38;26;2020
+455;Universidad de Chile;37;26;2020
+456;Curico Unido;37;26;2020
+457;Huachipato;34;26;2020
+458;Cobresal;34;26;2020
+459;D. La Serena;34;26;2020
+460;O'Higgins;34;26;2020
+461;Santiago Wanderers;33;26;2020
+462;Everton de Vina;32;26;2020
+463;Universidad de Concepcion;31;26;2020
+464;Deportes Iquique;31;26;2020
+465;A. Italiano;29;26;2020
+466;Colo Colo;28;26;2020
+467;Coquimbo Unido;26;26;2020
+468;U. Catolica;52;27;2020
+469;Union La Calera;49;27;2020
+470;Union Espanola;49;27;2020
+471;Palestino;41;27;2020
+472;Universidad de Chile;40;27;2020
+473;Antofagasta;40;27;2020
+474;Cobresal;37;27;2020
+475;Curico Unido;37;27;2020
+476;D. La Serena;35;27;2020
+477;Everton de Vina;35;27;2020
+478;O'Higgins;35;27;2020
+479;Huachipato;34;27;2020
+480;Santiago Wanderers;33;27;2020
+481;Universidad de Concepcion;31;27;2020
+482;Deportes Iquique;31;27;2020
+483;Colo Colo;31;27;2020
+484;A. Italiano;30;27;2020
+485;Coquimbo Unido;26;27;2020
+486;U. Catolica;55;28;2020
+487;Union La Calera;49;28;2020
+488;Union Espanola;49;28;2020
+489;Palestino;42;28;2020
+490;Universidad de Chile;40;28;2020
+491;Curico Unido;40;28;2020
+492;Antofagasta;40;28;2020
+493;O'Higgins;38;28;2020
+494;Huachipato;37;28;2020
+495;Cobresal;37;28;2020
+496;D. La Serena;36;28;2020
+497;Everton de Vina;36;28;2020
+498;Santiago Wanderers;36;28;2020
+499;A. Italiano;33;28;2020
+500;Universidad de Concepcion;32;28;2020
+501;Deportes Iquique;31;28;2020
+502;Colo Colo;31;28;2020
+503;Coquimbo Unido;29;28;2020
+504;U. Catolica;56;29;2020
+505;Union Espanola;50;29;2020
+506;Union La Calera;49;29;2020
+507;Universidad de Chile;43;29;2020
+508;Palestino;43;29;2020
+509;Curico Unido;41;29;2020
+510;Antofagasta;41;29;2020
+511;Santiago Wanderers;39;29;2020
+512;O'Higgins;39;29;2020
+513;Huachipato;37;29;2020
+514;Cobresal;37;29;2020
+515;D. La Serena;37;29;2020
+516;A. Italiano;36;29;2020
+517;Everton de Vina;36;29;2020
+518;Universidad de Concepcion;35;29;2020
+519;Colo Colo;34;29;2020
+520;Deportes Iquique;32;29;2020
+521;Coquimbo Unido;29;29;2020
+522;U. Catolica;57;30;2020
+523;Union La Calera;52;30;2020
+524;Union Espanola;51;30;2020
+525;Universidad de Chile;44;30;2020
+526;Palestino;44;30;2020
+527;O'Higgins;42;30;2020
+528;Curico Unido;41;30;2020
+529;Antofagasta;41;30;2020
+530;Huachipato;40;30;2020
+531;Cobresal;40;30;2020
+532;Everton de Vina;39;30;2020
+533;Santiago Wanderers;39;30;2020
+534;D. La Serena;37;30;2020
+535;A. Italiano;36;30;2020
+536;Universidad de Concepcion;36;30;2020
+537;Colo Colo;35;30;2020
+538;Deportes Iquique;33;30;2020
+539;Coquimbo Unido;30;30;2020
+540;U. Catolica;58;31;2020
+541;Union La Calera;55;31;2020
+542;Union Espanola;51;31;2020
+543;Palestino;47;31;2020
+544;Universidad de Chile;45;31;2020
+545;Antofagasta;44;31;2020
+546;Huachipato;43;31;2020
+547;O'Higgins;43;31;2020
+548;Curico Unido;42;31;2020
+549;Cobresal;40;31;2020
+550;Everton de Vina;40;31;2020
+551;Santiago Wanderers;40;31;2020
+552;D. La Serena;38;31;2020
+553;Universidad de Concepcion;37;31;2020
+554;Colo Colo;36;31;2020
+555;A. Italiano;36;31;2020
+556;Deportes Iquique;33;31;2020
+557;Coquimbo Unido;31;31;2020
+558;U. Catolica;61;32;2020
+559;Union La Calera;56;32;2020
+560;Union Espanola;51;32;2020
+561;Palestino;50;32;2020
+562;Universidad de Chile;48;32;2020
+563;Antofagasta;45;32;2020
+564;O'Higgins;44;32;2020
+565;Huachipato;43;32;2020
+566;Cobresal;43;32;2020
+567;Santiago Wanderers;43;32;2020
+568;Curico Unido;42;32;2020
+569;Universidad de Concepcion;40;32;2020
+570;Everton de Vina;40;32;2020
+571;D. La Serena;38;32;2020
+572;Colo Colo;37;32;2020
+573;A. Italiano;37;32;2020
+574;Deportes Iquique;34;32;2020
+575;Coquimbo Unido;31;32;2020
+576;U. Catolica;62;33;2020
+577;Union La Calera;57;33;2020
+578;Union Espanola;52;33;2020
+579;Palestino;50;33;2020
+580;Universidad de Chile;49;33;2020
+581;Antofagasta;48;33;2020
+582;Huachipato;46;33;2020
+583;Cobresal;44;33;2020
+584;Santiago Wanderers;44;33;2020
+585;O'Higgins;44;33;2020
+586;Curico Unido;43;33;2020
+587;Universidad de Concepcion;41;33;2020
+588;Everton de Vina;40;33;2020
+589;D. La Serena;39;33;2020
+590;Colo Colo;38;33;2020
+591;A. Italiano;38;33;2020
+592;Deportes Iquique;35;33;2020
+593;Coquimbo Unido;34;33;2020
+594;U. Catolica;65;34;2020
+595;Union La Calera;57;34;2020
+596;Universidad de Chile;52;34;2020
+597;Union Espanola;52;34;2020
+598;Palestino;51;34;2020
+599;Antofagasta;48;34;2020
+600;Cobresal;47;34;2020
+601;Huachipato;46;34;2020
+602;Curico Unido;46;34;2020
+603;O'Higgins;45;34;2020
+604;Santiago Wanderers;44;34;2020
+605;Everton de Vina;43;34;2020
+606;A. Italiano;41;34;2020
+607;Universidad de Concepcion;41;34;2020
+608;D. La Serena;39;34;2020
+609;Colo Colo;39;34;2020
+610;Deportes Iquique;38;34;2020
+611;Coquimbo Unido;35;34;2020
+612;A. Italiano;3;1;2021
+613;Antofagasta;3;1;2021
+614;Curico Unido;3;1;2021
+615;U. Catolica;3;1;2021
+616;Union Espanola;3;1;2021
+617;Cobresal;1;1;2021
+618;Colo Colo;1;1;2021
+619;Everton de Vina;1;1;2021
+620;Huachipato;1;1;2021
+621;O'Higgins;1;1;2021
+622;Union La Calera;1;1;2021
+623;D. La Serena;0;1;2021
+624;D. Melipilla;0;1;2021
+625;Nublense;0;1;2021
+626;Palestino;0;1;2021
+627;Santiago Wanderers;0;1;2021
+628;U. Catolica;6;2;2021
+629;A. Italiano;4;2;2021
+630;Union La Calera;4;2;2021
+631;Colo Colo;4;2;2021
+632;Everton de Vina;4;2;2021
+633;Curico Unido;3;2;2021
+634;D. La Serena;3;2;2021
+635;Union Espanola;3;2;2021
+636;Antofagasta;3;2;2021
+637;O'Higgins;2;2;2021
+638;Huachipato;2;2;2021
+639;Nublense;1;2;2021
+640;D. Melipilla;1;2;2021
+641;Cobresal;1;2;2021
+642;Universidad de Chile;1;2;2021
+643;Palestino;0;2;2021
+644;Santiago Wanderers;0;2;2021
+645;A. Italiano;7;3;2021
+646;Union La Calera;7;3;2021
+647;U. Catolica;6;3;2021
+648;Everton de Vina;5;3;2021
+649;O'Higgins;5;3;2021
+650;Colo Colo;4;3;2021
+651;Curico Unido;4;3;2021
+652;D. La Serena;4;3;2021
+653;D. Melipilla;4;3;2021
+654;Antofagasta;4;3;2021
+655;Nublense;4;3;2021
+656;Union Espanola;3;3;2021
+657;Huachipato;2;3;2021
+658;Universidad de Chile;2;3;2021
+659;Palestino;1;3;2021
+660;Cobresal;1;3;2021
+661;Santiago Wanderers;0;3;2021
+662;U. Catolica;9;4;2021
+663;A. Italiano;8;4;2021
+664;Union La Calera;8;4;2021
+665;Colo Colo;7;4;2021
+666;O'Higgins;6;4;2021
+667;Everton de Vina;5;4;2021
+668;Huachipato;5;4;2021
+669;D. La Serena;5;4;2021
+670;Universidad de Chile;5;4;2021
+671;D. Melipilla;4;4;2021
+672;Antofagasta;4;4;2021
+673;Nublense;4;4;2021
+674;Palestino;4;4;2021
+675;Curico Unido;4;4;2021
+676;Cobresal;4;4;2021
+677;Union Espanola;3;4;2021
+678;Santiago Wanderers;0;4;2021
+679;A. Italiano;11;5;2021
+680;Colo Colo;10;5;2021
+681;O'Higgins;9;5;2021
+682;U. Catolica;9;5;2021
+683;Union La Calera;8;5;2021
+684;Palestino;7;5;2021
+685;Antofagasta;7;5;2021
+686;Nublense;7;5;2021
+687;D. La Serena;6;5;2021
+688;Everton de Vina;6;5;2021
+689;Huachipato;5;5;2021
+690;Curico Unido;5;5;2021
+691;Universidad de Chile;5;5;2021
+692;D. Melipilla;4;5;2021
+693;Union Espanola;4;5;2021
+694;Cobresal;4;5;2021
+695;Santiago Wanderers;0;5;2021
+696;A. Italiano;12;6;2021
+697;O'Higgins;12;6;2021
+698;Union La Calera;11;6;2021
+699;Nublense;10;6;2021
+700;Colo Colo;10;6;2021
+701;U. Catolica;9;6;2021
+702;D. La Serena;9;6;2021
+703;Universidad de Chile;8;6;2021
+704;Antofagasta;7;6;2021
+705;D. Melipilla;7;6;2021
+706;Palestino;7;6;2021
+707;Cobresal;7;6;2021
+708;Everton de Vina;6;6;2021
+709;Curico Unido;5;6;2021
+710;Union Espanola;5;6;2021
+711;Huachipato;5;6;2021
+712;Santiago Wanderers;0;6;2021
+713;A. Italiano;13;7;2021
+714;D. La Serena;12;7;2021
+715;U. Catolica;12;7;2021
+716;O'Higgins;12;7;2021
+717;Union La Calera;11;7;2021
+718;Universidad de Chile;11;7;2021
+719;D. Melipilla;10;7;2021
+720;Nublense;10;7;2021
+721;Palestino;10;7;2021
+722;Colo Colo;10;7;2021
+723;Union Espanola;8;7;2021
+724;Cobresal;8;7;2021
+725;Antofagasta;7;7;2021
+726;Everton de Vina;6;7;2021
+727;Curico Unido;6;7;2021
+728;Huachipato;6;7;2021
+729;Santiago Wanderers;0;7;2021
+730;A. Italiano;16;8;2021
+731;Nublense;13;8;2021
+732;Colo Colo;13;8;2021
+733;O'Higgins;13;8;2021
+734;D. La Serena;12;8;2021
+735;U. Catolica;12;8;2021
+736;Union La Calera;11;8;2021
+737;Union Espanola;11;8;2021
+738;Universidad de Chile;11;8;2021
+739;D. Melipilla;11;8;2021
+740;Cobresal;11;8;2021
+741;Palestino;10;8;2021
+742;Everton de Vina;9;8;2021
+743;Antofagasta;8;8;2021
+744;Curico Unido;6;8;2021
+745;Huachipato;6;8;2021
+746;Santiago Wanderers;1;8;2021
+747;A. Italiano;19;9;2021
+748;O'Higgins;16;9;2021
+749;D. La Serena;15;9;2021
+750;U. Catolica;15;9;2021
+751;Union La Calera;14;9;2021
+752;Union Espanola;14;9;2021
+753;Nublense;13;9;2021
+754;Colo Colo;13;9;2021
+755;Everton de Vina;12;9;2021
+756;Universidad de Chile;11;9;2021
+757;Antofagasta;11;9;2021
+758;D. Melipilla;11;9;2021
+759;Cobresal;11;9;2021
+760;Palestino;10;9;2021
+761;Curico Unido;6;9;2021
+762;Huachipato;6;9;2021
+763;Santiago Wanderers;1;9;2021
+764;A. Italiano;19;10;2021
+765;U. Catolica;18;10;2021
+766;Union La Calera;17;10;2021
+767;O'Higgins;16;10;2021
+768;Colo Colo;16;10;2021
+769;Nublense;16;10;2021
+770;Union Espanola;15;10;2021
+771;D. La Serena;15;10;2021
+772;D. Melipilla;14;10;2021
+773;Everton de Vina;13;10;2021
+774;Universidad de Chile;12;10;2021
+775;Antofagasta;12;10;2021
+776;Palestino;11;10;2021
+777;Cobresal;11;10;2021
+778;Huachipato;7;10;2021
+779;Curico Unido;6;10;2021
+780;Santiago Wanderers;1;10;2021
+781;A. Italiano;20;11;2021
+782;Union La Calera;20;11;2021
+783;U. Catolica;19;11;2021
+784;D. La Serena;18;11;2021
+785;Nublense;17;11;2021
+786;Colo Colo;17;11;2021
+787;O'Higgins;17;11;2021
+788;Union Espanola;15;11;2021
+789;Universidad de Chile;15;11;2021
+790;Antofagasta;15;11;2021
+791;Everton de Vina;14;11;2021
+792;D. Melipilla;14;11;2021
+793;Cobresal;12;11;2021
+794;Palestino;11;11;2021
+795;Huachipato;8;11;2021
+796;Curico Unido;6;11;2021
+797;Santiago Wanderers;1;11;2021
+798;U. Catolica;22;12;2021
+799;A. Italiano;21;12;2021
+800;Union La Calera;21;12;2021
+801;D. La Serena;19;12;2021
+802;Nublense;18;12;2021
+803;Universidad de Chile;18;12;2021
+804;Colo Colo;18;12;2021
+805;Everton de Vina;17;12;2021
+806;O'Higgins;17;12;2021
+807;Antofagasta;16;12;2021
+808;D. Melipilla;15;12;2021
+809;Union Espanola;15;12;2021
+810;Palestino;14;12;2021
+811;Cobresal;12;12;2021
+812;Huachipato;9;12;2021
+813;Curico Unido;6;12;2021
+814;Santiago Wanderers;1;12;2021
+815;Union La Calera;24;13;2021
+816;U. Catolica;22;13;2021
+817;A. Italiano;21;13;2021
+818;Colo Colo;21;13;2021
+819;Everton de Vina;20;13;2021
+820;Nublense;19;13;2021
+821;Antofagasta;19;13;2021
+822;Universidad de Chile;19;13;2021
+823;D. La Serena;19;13;2021
+824;O'Higgins;18;13;2021
+825;Union Espanola;18;13;2021
+826;D. Melipilla;16;13;2021
+827;Palestino;14;13;2021
+828;Cobresal;13;13;2021
+829;Huachipato;9;13;2021
+830;Curico Unido;7;13;2021
+831;Santiago Wanderers;1;13;2021
+832;Union La Calera;25;14;2021
+833;Colo Colo;24;14;2021
+834;Everton de Vina;23;14;2021
+835;Universidad de Chile;22;14;2021
+836;U. Catolica;22;14;2021
+837;A. Italiano;21;14;2021
+838;D. La Serena;20;14;2021
+839;Antofagasta;20;14;2021
+840;Nublense;20;14;2021
+841;O'Higgins;19;14;2021
+842;Union Espanola;18;14;2021
+843;Palestino;17;14;2021
+844;D. Melipilla;16;14;2021
+845;Cobresal;13;14;2021
+846;Curico Unido;10;14;2021
+847;Huachipato;10;14;2021
+848;Santiago Wanderers;1;14;2021
+849;Union La Calera;28;15;2021
+850;Colo Colo;27;15;2021
+851;Universidad de Chile;25;15;2021
+852;U. Catolica;25;15;2021
+853;A. Italiano;24;15;2021
+854;Everton de Vina;23;15;2021
+855;Union Espanola;21;15;2021
+856;D. La Serena;20;15;2021
+857;Antofagasta;20;15;2021
+858;Nublense;20;15;2021
+859;O'Higgins;19;15;2021
+860;Palestino;17;15;2021
+861;D. Melipilla;16;15;2021
+862;Cobresal;16;15;2021
+863;Huachipato;13;15;2021
+864;Curico Unido;10;15;2021
+865;Santiago Wanderers;1;15;2021
+866;Union La Calera;31;16;2021
+867;Colo Colo;30;16;2021
+868;A. Italiano;27;16;2021
+869;U. Catolica;25;16;2021
+870;Universidad de Chile;25;16;2021
+871;Everton de Vina;23;16;2021
+872;Antofagasta;23;16;2021
+873;Union Espanola;21;16;2021
+874;D. La Serena;20;16;2021
+875;Nublense;20;16;2021
+876;D. Melipilla;19;16;2021
+877;O'Higgins;19;16;2021
+878;Cobresal;19;16;2021
+879;Palestino;17;16;2021
+880;Huachipato;16;16;2021
+881;Curico Unido;13;16;2021
+882;Santiago Wanderers;1;16;2021
+883;Colo Colo;33;17;2021
+884;Union La Calera;31;17;2021
+885;A. Italiano;28;17;2021
+886;U. Catolica;28;17;2021
+887;Universidad de Chile;28;17;2021
+888;Everton de Vina;23;17;2021
+889;Antofagasta;23;17;2021
+890;Cobresal;22;17;2021
+891;D. La Serena;21;17;2021
+892;Nublense;21;17;2021
+893;Union Espanola;21;17;2021
+894;D. Melipilla;19;17;2021
+895;O'Higgins;19;17;2021
+896;Huachipato;19;17;2021
+897;Palestino;18;17;2021
+898;Curico Unido;14;17;2021
+899;Santiago Wanderers;2;17;2021
+900;Colo Colo;34;18;2021
+901;Union La Calera;32;18;2021
+902;A. Italiano;31;18;2021
+903;U. Catolica;29;18;2021
+904;Universidad de Chile;28;18;2021
+905;Antofagasta;26;18;2021
+906;Union Espanola;24;18;2021
+907;Everton de Vina;23;18;2021
+908;Cobresal;23;18;2021
+909;Nublense;22;18;2021
+910;O'Higgins;22;18;2021
+911;D. La Serena;21;18;2021
+912;D. Melipilla;20;18;2021
+913;Huachipato;20;18;2021
+914;Palestino;18;18;2021
+915;Curico Unido;15;18;2021
+916;Santiago Wanderers;2;18;2021
+917;A. Italiano;34;19;2021
+918;Colo Colo;34;19;2021
+919;Union La Calera;32;19;2021
+920;U. Catolica;29;19;2021
+921;Universidad de Chile;29;19;2021
+922;Antofagasta;27;19;2021
+923;Union Espanola;27;19;2021
+924;Cobresal;26;19;2021
+925;Nublense;25;19;2021
+926;Everton de Vina;24;19;2021
+927;O'Higgins;22;19;2021
+928;D. La Serena;21;19;2021
+929;Palestino;21;19;2021
+930;Huachipato;21;19;2021
+931;D. Melipilla;20;19;2021
+932;Curico Unido;18;19;2021
+933;Santiago Wanderers;2;19;2021
+934;Colo Colo;37;20;2021
+935;A. Italiano;34;20;2021
+936;U. Catolica;32;20;2021
+937;Union La Calera;32;20;2021
+938;Union Espanola;30;20;2021
+939;Universidad de Chile;30;20;2021
+940;Cobresal;29;20;2021
+941;Antofagasta;28;20;2021
+942;Everton de Vina;27;20;2021
+943;Nublense;25;20;2021
+944;O'Higgins;22;20;2021
+945;D. La Serena;22;20;2021
+946;Palestino;21;20;2021
+947;Huachipato;21;20;2021
+948;D. Melipilla;20;20;2021
+949;Curico Unido;19;20;2021
+950;Santiago Wanderers;5;20;2021
+951;Colo Colo;40;21;2021
+952;U. Catolica;35;21;2021
+953;Union La Calera;35;21;2021
+954;A. Italiano;34;21;2021
+955;Universidad de Chile;33;21;2021
+956;Union Espanola;30;21;2021
+957;Cobresal;29;21;2021
+958;Antofagasta;28;21;2021
+959;Everton de Vina;27;21;2021
+960;Nublense;26;21;2021
+961;D. La Serena;25;21;2021
+962;Palestino;24;21;2021
+963;O'Higgins;22;21;2021
+964;Huachipato;22;21;2021
+965;D. Melipilla;20;21;2021
+966;Curico Unido;19;21;2021
+967;Santiago Wanderers;8;21;2021
+968;Colo Colo;43;22;2021
+969;Union La Calera;38;22;2021
+970;A. Italiano;35;22;2021
+971;U. Catolica;35;22;2021
+972;Union Espanola;33;22;2021
+973;Universidad de Chile;33;22;2021
+974;Cobresal;32;22;2021
+975;Everton de Vina;28;22;2021
+976;Antofagasta;28;22;2021
+977;Nublense;26;22;2021
+978;Palestino;25;22;2021
+979;D. La Serena;25;22;2021
+980;Huachipato;23;22;2021
+981;O'Higgins;22;22;2021
+982;D. Melipilla;21;22;2021
+983;Curico Unido;20;22;2021
+984;Santiago Wanderers;11;22;2021
+985;Colo Colo;43;23;2021
+986;Union La Calera;41;23;2021
+987;A. Italiano;38;23;2021
+988;U. Catolica;38;23;2021
+989;Union Espanola;33;23;2021
+990;Universidad de Chile;33;23;2021
+991;Cobresal;32;23;2021
+992;Everton de Vina;31;23;2021
+993;Nublense;29;23;2021
+994;Antofagasta;28;23;2021
+995;O'Higgins;25;23;2021
+996;Palestino;25;23;2021
+997;D. La Serena;25;23;2021
+998;Curico Unido;23;23;2021
+999;Huachipato;23;23;2021
+1000;D. Melipilla;21;23;2021
+1001;Santiago Wanderers;14;23;2021
+1002;Colo Colo;46;24;2021
+1003;A. Italiano;41;24;2021
+1004;U. Catolica;41;24;2021
+1005;Union La Calera;41;24;2021
+1006;Union Espanola;36;24;2021
+1007;Universidad de Chile;34;24;2021
+1008;Cobresal;32;24;2021
+1009;Everton de Vina;31;24;2021
+1010;Antofagasta;29;24;2021
+1011;Nublense;29;24;2021
+1012;D. La Serena;28;24;2021
+1013;Curico Unido;26;24;2021
+1014;O'Higgins;25;24;2021
+1015;Palestino;25;24;2021
+1016;Huachipato;23;24;2021
+1017;D. Melipilla;22;24;2021
+1018;Santiago Wanderers;15;24;2021
+1019;Colo Colo;49;25;2021
+1020;U. Catolica;44;25;2021
+1021;A. Italiano;41;25;2021
+1022;Union La Calera;41;25;2021
+1023;Union Espanola;36;25;2021
+1024;Everton de Vina;34;25;2021
+1025;Universidad de Chile;34;25;2021
+1026;Antofagasta;32;25;2021
+1027;Cobresal;32;25;2021
+1028;D. La Serena;31;25;2021
+1029;Nublense;30;25;2021
+1030;O'Higgins;28;25;2021
+1031;Palestino;28;25;2021
+1032;Curico Unido;27;25;2021
+1033;Huachipato;23;25;2021
+1034;D. Melipilla;22;25;2021
+1035;Santiago Wanderers;15;25;2021
+1036;Colo Colo;49;26;2021
+1037;U. Catolica;47;26;2021
+1038;A. Italiano;44;26;2021
+1039;Union La Calera;44;26;2021
+1040;Union Espanola;39;26;2021
+1041;Antofagasta;35;26;2021
+1042;Everton de Vina;34;26;2021
+1043;Universidad de Chile;34;26;2021
+1044;D. La Serena;32;26;2021
+1045;Cobresal;32;26;2021
+1046;Nublense;30;26;2021
+1047;O'Higgins;29;26;2021
+1048;Palestino;29;26;2021
+1049;Curico Unido;27;26;2021
+1050;D. Melipilla;23;26;2021
+1051;Huachipato;23;26;2021
+1052;Santiago Wanderers;18;26;2021
+1053;Colo Colo;52;27;2021
+1054;U. Catolica;50;27;2021
+1055;A. Italiano;44;27;2021
+1056;Union La Calera;44;27;2021
+1057;Union Espanola;42;27;2021
+1058;Everton de Vina;37;27;2021
+1059;Antofagasta;35;27;2021
+1060;Cobresal;35;27;2021
+1061;Universidad de Chile;34;27;2021
+1062;Nublense;33;27;2021
+1063;Palestino;32;27;2021
+1064;D. La Serena;32;27;2021
+1065;O'Higgins;29;27;2021
+1066;Curico Unido;27;27;2021
+1067;D. Melipilla;26;27;2021
+1068;Huachipato;23;27;2021
+1069;Santiago Wanderers;18;27;2021
+1070;Colo Colo;55;28;2021
+1071;U. Catolica;50;28;2021
+1072;A. Italiano;45;28;2021
+1073;Union La Calera;45;28;2021
+1074;Union Espanola;42;28;2021
+1075;Everton de Vina;38;28;2021
+1076;Antofagasta;38;28;2021
+1077;Cobresal;35;28;2021
+1078;Nublense;34;28;2021
+1079;Universidad de Chile;34;28;2021
+1080;Palestino;33;28;2021
+1081;D. La Serena;33;28;2021
+1082;O'Higgins;32;28;2021
+1083;D. Melipilla;29;28;2021
+1084;Curico Unido;28;28;2021
+1085;Huachipato;24;28;2021
+1086;Santiago Wanderers;18;28;2021
+1087;Colo Colo;55;29;2021
+1088;U. Catolica;53;29;2021
+1089;A. Italiano;48;29;2021
+1090;Union La Calera;45;29;2021
+1091;Union Espanola;45;29;2021
+1092;Antofagasta;41;29;2021
+1093;Everton de Vina;38;29;2021
+1094;Cobresal;35;29;2021
+1095;Palestino;34;29;2021
+1096;Universidad de Chile;34;29;2021
+1097;Nublense;34;29;2021
+1098;D. La Serena;34;29;2021
+1099;O'Higgins;32;29;2021
+1100;D. Melipilla;32;29;2021
+1101;Curico Unido;31;29;2021
+1102;Huachipato;25;29;2021
+1103;Santiago Wanderers;19;29;2021
+1104;Colo Colo;58;30;2021
+1105;U. Catolica;56;30;2021
+1106;A. Italiano;51;30;2021
+1107;Union La Calera;48;30;2021
+1108;Union Espanola;45;30;2021
+1109;Antofagasta;41;30;2021
+1110;Everton de Vina;38;30;2021
+1111;Nublense;37;30;2021
+1112;Cobresal;35;30;2021
+1113;D. Melipilla;35;30;2021
+1114;O'Higgins;35;30;2021
+1115;Universidad de Chile;34;30;2021
+1116;Palestino;34;30;2021
+1117;D. La Serena;34;30;2021
+1118;Curico Unido;31;30;2021
+1119;Huachipato;28;30;2021
+1120;Santiago Wanderers;19;30;2021
+1121;Colo Colo;61;31;2021
+1122;U. Catolica;59;31;2021
+1123;A. Italiano;51;31;2021
+1124;Union La Calera;48;31;2021
+1125;Union Espanola;45;31;2021
+1126;Antofagasta;42;31;2021
+1127;Everton de Vina;39;31;2021
+1128;Nublense;38;31;2021
+1129;Palestino;37;31;2021
+1130;Cobresal;36;31;2021
+1131;O'Higgins;36;31;2021
+1132;D. La Serena;35;31;2021
+1133;D. Melipilla;35;31;2021
+1134;Universidad de Chile;34;31;2021
+1135;Curico Unido;34;31;2021
+1136;Huachipato;31;31;2021
+1137;Santiago Wanderers;19;31;2021
+1138;Colo Colo;62;32;2021
+1139;U. Catolica;62;32;2021
+1140;A. Italiano;52;32;2021
+1141;Union La Calera;51;32;2021
+1142;Union Espanola;45;32;2021
+1143;Antofagasta;43;32;2021
+1144;Nublense;41;32;2021
+1145;Palestino;40;32;2021
+1146;Everton de Vina;39;32;2021
+1147;O'Higgins;37;32;2021
+1148;Cobresal;36;32;2021
+1149;Universidad de Chile;35;32;2021
+1150;D. Melipilla;35;32;2021
+1151;D. La Serena;35;32;2021
+1152;Curico Unido;35;32;2021
+1153;Huachipato;34;32;2021
+1154;Santiago Wanderers;19;32;2021
+1155;U. Catolica;65;33;2021
+1156;Colo Colo;62;33;2021
+1157;A. Italiano;53;33;2021
+1158;Union La Calera;51;33;2021
+1159;Union Espanola;48;33;2021
+1160;Antofagasta;44;33;2021
+1161;Nublense;41;33;2021
+1162;Palestino;41;33;2021
+1163;Everton de Vina;39;33;2021
+1164;D. La Serena;38;33;2021
+1165;D. Melipilla;38;33;2021
+1166;O'Higgins;38;33;2021
+1167;Cobresal;37;33;2021
+1168;Universidad de Chile;36;33;2021
+1169;Curico Unido;36;33;2021
+1170;Huachipato;34;33;2021
+1171;Santiago Wanderers;20;33;2021
+1172;U. Catolica;68;34;2021
+1173;Colo Colo;62;34;2021
+1174;A. Italiano;54;34;2021
+1175;Union La Calera;51;34;2021
+1176;Union Espanola;48;34;2021
+1177;Antofagasta;47;34;2021
+1178;Nublense;44;34;2021
+1179;Palestino;41;34;2021
+1180;Cobresal;40;34;2021
+1181;Universidad de Chile;39;34;2021
+1182;Everton de Vina;39;34;2021
+1183;D. La Serena;39;34;2021
+1184;O'Higgins;38;34;2021
+1185;D. Melipilla;38;34;2021
+1186;Curico Unido;37;34;2021
+1187;Huachipato;37;34;2021
+1188;Santiago Wanderers;21;34;2021
+1189;Cobresal;3;1;2022
+1190;Colo Colo;3;1;2022
+1191;Curico Unido;3;1;2022
+1192;Nublense;3;1;2022
+1193;O'Higgins;3;1;2022
+1194;U. Catolica;3;1;2022
+1195;Universidad de Chile;3;1;2022
+1196;Palestino;1;1;2022
+1197;Union Espanola;1;1;2022
+1198;A. Italiano;0;1;2022
+1199;Antofagasta;0;1;2022
+1200;Coquimbo Unido;0;1;2022
+1201;D. La Serena;0;1;2022
+1202;Everton de Vina;0;1;2022
+1203;Huachipato;0;1;2022
+1204;Union La Calera;0;1;2022
+1205;Curico Unido;6;2;2022
+1206;U. Catolica;6;2;2022
+1207;Universidad de Chile;6;2;2022
+1208;Colo Colo;4;2;2022
+1209;Nublense;4;2;2022
+1210;Palestino;4;2;2022
+1211;Cobresal;3;2;2022
+1212;Everton de Vina;3;2;2022
+1213;Huachipato;3;2;2022
+1214;O'Higgins;3;2;2022
+1215;D. La Serena;1;2;2022
+1216;Union Espanola;1;2;2022
+1217;Union La Calera;1;2;2022
+1218;A. Italiano;0;2;2022
+1219;Antofagasta;0;2;2022
+1220;Coquimbo Unido;0;2;2022
+1221;U. Catolica;9;3;2022
+1222;Nublense;7;3;2022
+1223;Cobresal;6;3;2022
+1224;Curico Unido;6;3;2022
+1225;Universidad de Chile;6;3;2022
+1226;Colo Colo;5;3;2022
+1227;Palestino;5;3;2022
+1228;Everton de Vina;4;3;2022
+1229;Huachipato;4;3;2022
+1230;O'Higgins;4;3;2022
+1231;D. La Serena;2;3;2022
+1232;Union Espanola;2;3;2022
+1233;A. Italiano;1;3;2022
+1234;Antofagasta;1;3;2022
+1235;Coquimbo Unido;1;3;2022
+1236;Union La Calera;1;3;2022
+1237;U. Catolica;9;4;2022
+1238;Nublense;8;4;2022
+1239;Palestino;8;4;2022
+1240;Cobresal;7;4;2022
+1241;Huachipato;7;4;2022
+1242;O'Higgins;7;4;2022
+1243;Curico Unido;6;4;2022
+1244;Universidad de Chile;6;4;2022
+1245;Colo Colo;5;4;2022
+1246;Everton de Vina;5;4;2022
+1247;Union Espanola;5;4;2022
+1248;Antofagasta;4;4;2022
+1249;D. La Serena;3;4;2022
+1250;Coquimbo Unido;2;4;2022
+1251;Union La Calera;2;4;2022
+1252;A. Italiano;1;4;2022
+1253;Nublense;11;5;2022
+1254;Cobresal;10;5;2022
+1255;Palestino;9;5;2022
+1256;U. Catolica;9;5;2022
+1257;Colo Colo;8;5;2022
+1258;O'Higgins;8;5;2022
+1259;Union Espanola;8;5;2022
+1260;Curico Unido;7;5;2022
+1261;Huachipato;7;5;2022
+1262;Everton de Vina;6;5;2022
+1263;Universidad de Chile;6;5;2022
+1264;Coquimbo Unido;5;5;2022
+1265;Antofagasta;4;5;2022
+1266;D. La Serena;3;5;2022
+1267;Union La Calera;3;5;2022
+1268;A. Italiano;2;5;2022
+1269;Nublense;14;6;2022
+1270;Cobresal;13;6;2022
+1271;Colo Colo;11;6;2022
+1272;Curico Unido;10;6;2022
+1273;Everton de Vina;9;6;2022
+1274;Palestino;9;6;2022
+1275;U. Catolica;9;6;2022
+1276;Universidad de Chile;9;6;2022
+1277;O'Higgins;8;6;2022
+1278;Union Espanola;8;6;2022
+1279;Huachipato;7;6;2022
+1280;Union La Calera;6;6;2022
+1281;A. Italiano;5;6;2022
+1282;Coquimbo Unido;5;6;2022
+1283;Antofagasta;4;6;2022
+1284;D. La Serena;3;6;2022
+1285;Cobresal;16;7;2022
+1286;Colo Colo;14;7;2022
+1287;Nublense;14;7;2022
+1288;Curico Unido;11;7;2022
+1289;O'Higgins;11;7;2022
+1290;Union Espanola;11;7;2022
+1291;Everton de Vina;10;7;2022
+1292;Universidad de Chile;10;7;2022
+1293;Palestino;9;7;2022
+1294;U. Catolica;9;7;2022
+1295;Huachipato;7;7;2022
+1296;Union La Calera;7;7;2022
+1297;A. Italiano;6;7;2022
+1298;D. La Serena;6;7;2022
+1299;Antofagasta;5;7;2022
+1300;Coquimbo Unido;5;7;2022
+1301;Colo Colo;17;8;2022
+1302;Cobresal;16;8;2022
+1303;Nublense;15;8;2022
+1304;O'Higgins;14;8;2022
+1305;Union Espanola;14;8;2022
+1306;Everton de Vina;13;8;2022
+1307;Curico Unido;12;8;2022
+1308;U. Catolica;12;8;2022
+1309;Huachipato;10;8;2022
+1310;Palestino;10;8;2022
+1311;Universidad de Chile;10;8;2022
+1312;Union La Calera;7;8;2022
+1313;A. Italiano;6;8;2022
+1314;Antofagasta;6;8;2022
+1315;D. La Serena;6;8;2022
+1316;Coquimbo Unido;5;8;2022
+1317;Colo Colo;17;9;2022
+1318;Union Espanola;17;9;2022
+1319;Cobresal;16;9;2022
+1320;Nublense;16;9;2022
+1321;O'Higgins;14;9;2022
+1322;Curico Unido;13;9;2022
+1323;Everton de Vina;13;9;2022
+1324;Huachipato;13;9;2022
+1325;U. Catolica;12;9;2022
+1326;Palestino;11;9;2022
+1327;Universidad de Chile;10;9;2022
+1328;A. Italiano;9;9;2022
+1329;Antofagasta;9;9;2022
+1330;D. La Serena;9;9;2022
+1331;Coquimbo Unido;8;9;2022
+1332;Union La Calera;8;9;2022
+1333;Colo Colo;20;10;2022
+1334;Union Espanola;20;10;2022
+1335;Nublense;19;10;2022
+1336;Cobresal;16;10;2022
+1337;Curico Unido;16;10;2022
+1338;Huachipato;16;10;2022
+1339;O'Higgins;15;10;2022
+1340;Everton de Vina;13;10;2022
+1341;Palestino;12;10;2022
+1342;U. Catolica;12;10;2022
+1343;Universidad de Chile;11;10;2022
+1344;A. Italiano;10;10;2022
+1345;Antofagasta;9;10;2022
+1346;Coquimbo Unido;9;10;2022
+1347;D. La Serena;9;10;2022
+1348;Union La Calera;9;10;2022
+1349;Colo Colo;21;11;2022
+1350;Union Espanola;21;11;2022
+1351;Curico Unido;19;11;2022
+1352;Nublense;19;11;2022
+1353;O'Higgins;18;11;2022
+1354;Cobresal;17;11;2022
+1355;Huachipato;17;11;2022
+1356;Everton de Vina;14;11;2022
+1357;A. Italiano;13;11;2022
+1358;Palestino;13;11;2022
+1359;U. Catolica;13;11;2022
+1360;Coquimbo Unido;12;11;2022
+1361;Universidad de Chile;11;11;2022
+1362;Antofagasta;10;11;2022
+1363;D. La Serena;9;11;2022
+1364;Union La Calera;9;11;2022
+1365;Colo Colo;24;12;2022
+1366;Nublense;22;12;2022
+1367;Union Espanola;22;12;2022
+1368;Huachipato;20;12;2022
+1369;Curico Unido;19;12;2022
+1370;O'Higgins;19;12;2022
+1371;Cobresal;18;12;2022
+1372;Palestino;16;12;2022
+1373;Everton de Vina;15;12;2022
+1374;Universidad de Chile;14;12;2022
+1375;A. Italiano;13;12;2022
+1376;U. Catolica;13;12;2022
+1377;Coquimbo Unido;12;12;2022
+1378;Union La Calera;12;12;2022
+1379;Antofagasta;10;12;2022
+1380;D. La Serena;9;12;2022
+1381;Colo Colo;27;13;2022
+1382;Nublense;25;13;2022
+1383;Union Espanola;25;13;2022
+1384;Curico Unido;22;13;2022
+1385;Cobresal;21;13;2022
+1386;Huachipato;20;13;2022
+1387;O'Higgins;19;13;2022
+1388;Everton de Vina;18;13;2022
+1389;Palestino;17;13;2022
+1390;U. Catolica;16;13;2022
+1391;Universidad de Chile;14;13;2022
+1392;A. Italiano;13;13;2022
+1393;Coquimbo Unido;12;13;2022
+1394;Union La Calera;12;13;2022
+1395;Antofagasta;10;13;2022
+1396;D. La Serena;10;13;2022
+1397;Colo Colo;28;14;2022
+1398;Nublense;28;14;2022
+1399;Union Espanola;28;14;2022
+1400;Curico Unido;22;14;2022
+1401;Cobresal;21;14;2022
+1402;Huachipato;20;14;2022
+1403;O'Higgins;20;14;2022
+1404;Palestino;20;14;2022
+1405;Everton de Vina;19;14;2022
+1406;Universidad de Chile;17;14;2022
+1407;A. Italiano;16;14;2022
+1408;U. Catolica;16;14;2022
+1409;Union La Calera;13;14;2022
+1410;Coquimbo Unido;12;14;2022
+1411;Antofagasta;11;14;2022
+1412;D. La Serena;11;14;2022
+1413;Colo Colo;29;15;2022
+1414;Nublense;29;15;2022
+1415;Union Espanola;29;15;2022
+1416;Curico Unido;25;15;2022
+1417;Cobresal;24;15;2022
+1418;Huachipato;23;15;2022
+1419;O'Higgins;21;15;2022
+1420;Everton de Vina;20;15;2022
+1421;Palestino;20;15;2022
+1422;U. Catolica;19;15;2022
+1423;Universidad de Chile;17;15;2022
+1424;A. Italiano;16;15;2022
+1425;D. La Serena;14;15;2022
+1426;Union La Calera;14;15;2022
+1427;Coquimbo Unido;12;15;2022
+1428;Antofagasta;11;15;2022
+1429;Colo Colo;30;16;2022
+1430;Nublense;29;16;2022
+1431;Union Espanola;29;16;2022
+1432;Cobresal;27;16;2022
+1433;Curico Unido;26;16;2022
+1434;Huachipato;24;16;2022
+1435;Palestino;23;16;2022
+1436;U. Catolica;22;16;2022
+1437;Everton de Vina;21;16;2022
+1438;O'Higgins;21;16;2022
+1439;Universidad de Chile;20;16;2022
+1440;A. Italiano;19;16;2022
+1441;D. La Serena;17;16;2022
+1442;Union La Calera;14;16;2022
+1443;Coquimbo Unido;12;16;2022
+1444;Antofagasta;11;16;2022
+1445;Colo Colo;33;17;2022
+1446;Nublense;30;17;2022
+1447;Curico Unido;29;17;2022
+1448;Union Espanola;29;17;2022
+1449;Cobresal;27;17;2022
+1450;Palestino;26;17;2022
+1451;Huachipato;25;17;2022
+1452;Everton de Vina;22;17;2022
+1453;U. Catolica;22;17;2022
+1454;O'Higgins;21;17;2022
+1455;Universidad de Chile;21;17;2022
+1456;A. Italiano;20;17;2022
+1457;D. La Serena;17;17;2022
+1458;Union La Calera;15;17;2022
+1459;Coquimbo Unido;13;17;2022
+1460;Antofagasta;12;17;2022
+1461;Colo Colo;36;18;2022
+1462;Nublense;33;18;2022
+1463;Curico Unido;32;18;2022
+1464;Cobresal;30;18;2022
+1465;Palestino;29;18;2022
+1466;Union Espanola;29;18;2022
+1467;Everton de Vina;25;18;2022
+1468;Huachipato;25;18;2022
+1469;O'Higgins;24;18;2022
+1470;U. Catolica;22;18;2022
+1471;Universidad de Chile;21;18;2022
+1472;A. Italiano;20;18;2022
+1473;D. La Serena;17;18;2022
+1474;Antofagasta;15;18;2022
+1475;Union La Calera;15;18;2022
+1476;Coquimbo Unido;13;18;2022
+1477;Colo Colo;36;19;2022
+1478;Nublense;36;19;2022
+1479;Curico Unido;32;19;2022
+1480;Cobresal;30;19;2022
+1481;Palestino;29;19;2022
+1482;Union Espanola;29;19;2022
+1483;Everton de Vina;25;19;2022
+1484;Huachipato;25;19;2022
+1485;O'Higgins;24;19;2022
+1486;U. Catolica;22;19;2022
+1487;Universidad de Chile;21;19;2022
+1488;A. Italiano;20;19;2022
+1489;D. La Serena;17;19;2022
+1490;Antofagasta;15;19;2022
+1491;Union La Calera;15;19;2022
+1492;Coquimbo Unido;13;19;2022

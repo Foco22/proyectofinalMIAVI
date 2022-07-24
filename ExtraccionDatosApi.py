@@ -15,6 +15,15 @@ headers = {
 
 ################################### Extraccion League_season #########################################
 
+def resultados(home, away):
+
+    if home > away:
+        return 3
+    elif home < away:
+        return 0
+    else:
+        return 1
+
 
 def leagues_countries():
 
@@ -256,6 +265,65 @@ def get_extraccion(sesiones):
     return df_total_equipo_liga,df_total_jugador_chilena_equipos
 
 
+def fixture_table(season):
+
+    df_total_season = pd.DataFrame()
+
+    for j in season:
+
+        df_jornadas = pd.DataFrame()
+        url = "https://api-football-v1.p.rapidapi.com/v3/fixtures"
+        querystring = {"league":"265","season":str(j)}
+        response = requests.request("GET", url, headers=headers, params=querystring)
+        response = response.json()
+        
+        for x in range(len(response['response'])):
+    
+           jornada =   response['response'][x]['league']['round']
+           team_home = response['response'][x]['teams']['home']['name']
+           team_away = response['response'][x]['teams']['away']['name']
+           goal_home = response['response'][x]['score']['fulltime']['home']
+           goal_away = response['response'][x]['score']['fulltime']['away']
+           tupla = (jornada,team_home,team_away,goal_home,goal_away)
+           df_jornada_x = pd.DataFrame([tupla], columns =  ['Jornada','EquipoHome','EquipoAway','Goal_home','Goal_away'])
+           df_jornadas = pd.concat([df_jornadas,df_jornada_x], axis = 0)
+
+        df_jornadas = df_jornadas.dropna()
+        
+        df_jornadas = df_jornadas.loc[df_jornadas['Jornada'] != 'Relegation Play-offs']
+        df_jornadas['Jornada_numero'] =  df_jornadas['Jornada'].apply(lambda x : int(x.split('-')[1]))
+        df_jornadas['Score_home'] = df_jornadas.apply(lambda row: resultados(row['Goal_home'], row['Goal_away']) , axis= 1 )
+        df_jornadas['Score_away'] = df_jornadas.apply(lambda row: resultados(row['Goal_away'], row['Goal_home']) , axis= 1 )
+
+        lista_fixture = []
+        df_total_fixture = pd.DataFrame()
+
+        for x in df_jornadas['Jornada_numero'].unique():
+   
+           lista_fixture.append(x)
+           df_jornadas_fix = df_jornadas.loc[df_jornadas['Jornada_numero'].isin(lista_fixture)]
+           df_score_home = df_jornadas_fix.groupby('EquipoHome').sum()['Score_home'].reset_index()
+           df_score_away = df_jornadas_fix.groupby('EquipoAway').sum()['Score_away'].reset_index()
+           df_score_home = df_score_home.rename({'Score_home':'Puntos'}, axis = 1)
+           df_score_away = df_score_away.rename({'Score_away':'Puntos'}, axis = 1)
+           df_score_home = df_score_home.rename({'EquipoHome':'Equipos'}, axis = 1)
+           df_score_away = df_score_away.rename({'EquipoAway':'Equipos'}, axis = 1)
+           total = pd.concat([df_score_home, df_score_away], axis = 0)
+           total = total.groupby('Equipos').sum()['Puntos'].reset_index()
+           total = total.sort_values(by='Puntos',ascending=False)
+           total['fixture'] = x
+           df_total_fixture = pd.concat([df_total_fixture,total],axis = 0)
+        
+        df_total_fixture = df_total_fixture.reset_index().drop(columns = ['index'])
+
+        df_total_fixture['season'] = j
+        df_total_season = pd.concat([df_total_season,df_total_fixture], axis = 0)
+    
+    df_total_season = df_total_season.reset_index().drop(columns = ['index'])
+    
+    df_total_season.to_csv('TablaFixtureSeason.csv',sep =';')
+    return df_total_season
+
 
 df_total_equipo, df_total_jugador = get_extraccion([2020,2021,2022])
-
+df_tabla_fixture = fixture_table([2020,2021,2022])
