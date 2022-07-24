@@ -83,6 +83,13 @@ def procesamiento(df_total_jugador,df_total_equipo):
     df_total_jugador = df_total_jugador.fillna(0)
 
     #Scalar datos
+    print(df_total_jugador.shape)
+
+
+    #df_total_jugador = df_total_jugador.loc[df_total_jugador['total_line_up_per'] >=0.1]
+    #df_total_jugador = df_total_jugador.reset_index().drop(columns = ['index'],axis = 1)
+    #print(df_total_jugador.shape)
+
     scaler = MinMaxScaler()
     scaler = scaler.fit(df_total_jugador.iloc[:,43:])
     scaler_r = scaler.transform(df_total_jugador.iloc[:,43:])
@@ -95,7 +102,10 @@ def procesamiento(df_total_jugador,df_total_equipo):
     df_total_jugador['total_line_up'] = df_total_jugador.apply(lambda row: 33 if row['Periodo'] != 2022 else 18, axis = 1  )
     df_total_jugador['total_line_up_per'] = df_total_jugador['appearence']/df_total_jugador['total_line_up']
 
- 
+    print(df_total_jugador['total_line_up_per'].value_counts())
+    df_total_jugador = df_total_jugador.loc[df_total_jugador['total_line_up_per'] >=0.5]
+    df_total_jugador = df_total_jugador.reset_index().drop(columns = ['index'],axis = 1)
+
     #for x,j in enumerate(df_total_jugador.columns):
     #    print(x,j)
         
